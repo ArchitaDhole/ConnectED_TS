@@ -18,6 +18,12 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.archita_dhole.ConnectED"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a00b5e74-57d0-475a-8a1e-320e38a365a9"
       }
     }
   }
